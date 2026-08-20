@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+scorecard-api
+*.log

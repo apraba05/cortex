@@ -1,0 +1,8 @@
+name: payments-api
+helm_chart: cortex-demo/payments-api
+argocd_status: Healthy
+terraform_managed: true
+ci_status: passing
+owner: team-payments
+ai_agent_usage: scorecard-checks
+repo: github.com/acme/payments-api

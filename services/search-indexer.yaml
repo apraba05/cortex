@@ -1,0 +1,8 @@
+name: search-indexer
+helm_chart: cortex-demo/search-indexer
+argocd_status: Degraded
+terraform_managed: true
+ci_status: pending
+owner: team-search
+ai_agent_usage: none
+repo: github.com/acme/search-indexer

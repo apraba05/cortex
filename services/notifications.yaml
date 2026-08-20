@@ -1,0 +1,8 @@
+name: notifications
+helm_chart: cortex-demo/notifications
+argocd_status: Healthy
+terraform_managed: true
+ci_status: passing
+owner: ""
+ai_agent_usage: none
+repo: github.com/acme/notifications

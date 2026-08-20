@@ -1,0 +1,8 @@
+name: inventory-svc
+helm_chart: ""
+argocd_status: Missing
+terraform_managed: true
+ci_status: passing
+owner: team-inventory
+ai_agent_usage: catalog-sync
+repo: github.com/acme/inventory-svc

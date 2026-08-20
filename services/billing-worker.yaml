@@ -1,0 +1,8 @@
+name: billing-worker
+helm_chart: cortex-demo/billing-worker
+argocd_status: OutOfSync
+terraform_managed: false
+ci_status: passing
+owner: team-billing
+ai_agent_usage: remediation-bot
+repo: github.com/acme/billing-worker

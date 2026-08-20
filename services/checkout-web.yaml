@@ -1,0 +1,8 @@
+name: checkout-web
+helm_chart: cortex-demo/checkout-web
+argocd_status: Synced
+terraform_managed: false
+ci_status: failing
+owner: team-checkout
+ai_agent_usage: none
+repo: github.com/acme/checkout-web
